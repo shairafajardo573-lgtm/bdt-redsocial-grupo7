@@ -6,10 +6,10 @@
 Modelo Lógico y Normalización
 
 ## Integrantes
-- Juan Sebastian Rojas Ramirez
-- Kelly Sofia Gil Serna
-- Luis Mateo Cataño Rivera
-- Shaira Nicoll Fajardo Ortega
+- Juan Sebastian Rojas Ramirez.
+- Kelly Sofia Gil Serna.
+- Luis Mateo Cataño Rivera.
+- Shaira Nicoll Fajardo Ortega.
   
 ## Descripción del caso (sujeto a cambios)
 

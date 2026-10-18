@@ -1,5 +1,5 @@
 # bdt-redsocial-grupo7
-# Red Social Estudiantil - Pascualina- Tarea 2
+# Red Social Estudiantil - Pascualina- Tarea 3 
 
 ## Nombre del proyecto
 

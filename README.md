@@ -1,5 +1,5 @@
 # bdt-redsocial-grupo7
-# Red Social Estudiantil - Pascualina- Tarea 2
+# Red Social Estudiantil - Pascualina- Tarea 3
 
 ## Nombre del proyecto
 
@@ -13,4 +13,4 @@ Modelo Lógico y Normalización
   
 ## Descripción del caso (sujeto a cambios)
 
-Este proyecto tiene como finalidad diseñar el **modelo lógico y el proceso de normalización** de una base de datos para una red social estudiantil. La plataforma busca mejorar la comunicación y la interacción entre los estudiantes de la Institución Universitaria Pascual Bravo, permitiendo crear perfiles, publicar contenido, crear grupos de estudio, organizar eventos y enviar mensajes
+Este proyecto tiene como finalidad diseñar el **modelo lógico y el proceso de normalización** de una base de datos para una red social estudiantil. La plataforma busca mejorar la comunicación y la interacción entre los estudiantes de la Institución Universitaria Pascual Bravo, permitiendo crear perfiles, publicar contenido, crear grupos de estudio, organizar eventos y enviar mensajes. Solo que este modelo fisico lo desarrollamos en MySQL 
